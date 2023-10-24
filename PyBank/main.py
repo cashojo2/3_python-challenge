@@ -91,7 +91,7 @@ print("Greatest Decrease in Profits: " + date2 + " ($" + str(greatest_dec)+ ")")
 # set the output path
 output_path = os.path.join("analysis", "pybank_results.txt")
 
-# open the file 
+# write the file 
 with open(output_path, 'w') as output_file:
     output_file.write('Financial Analysis')
     output_file.write('\n')

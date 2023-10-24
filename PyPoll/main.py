@@ -53,7 +53,7 @@ print("Winner: " + winner)
 # set the output path
 output_path = os.path.join("analysis", "pypoll_results.txt")
 
-# open the file 
+# write the file 
 with open(output_path, 'w') as output_file:
     output_file.write("Election Results")
     output_file.write('\n')
