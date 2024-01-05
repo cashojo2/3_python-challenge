@@ -1,1 +1,1 @@
-# python-challenge
+This module demonstrates use of basic python commands. A Python script was generated to analyze a financial dataset. A separate script was written to analyze election results using a dictionary. Data was read in from .csv files.
